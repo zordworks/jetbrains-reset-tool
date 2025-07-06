@@ -1,0 +1,8 @@
+# Requirements for DarkWorks JetBrains Trial Reset Utility v3.0
+# Python 3.11+ required
+
+colorama
+pyfiglet
+psutil
+pyinstaller>=5.0
+tqdm
