@@ -28,6 +28,11 @@
 - Feedback visual durante operações
 - Detecção automática de produtos instalados
 
+- ![image](https://github.com/user-attachments/assets/1e3d6cca-6c8c-4cf6-8216-ab6796014603)
+
+![image](https://github.com/user-attachments/assets/d4d666bd-5558-4c54-af0b-fcb25df7b80e)
+
+
 ## 📥 Download
 
 ### 🚀 Versão Portable (Recomendada)
